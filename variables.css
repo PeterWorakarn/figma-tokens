@@ -1,0 +1,58 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 23 Nov 2022 08:37:17 GMT
+ */
+
+:root {
+  --primary-default: #fbed21;
+  --primary-00: #323004;
+  --primary-01: #756f0e;
+  --primary-02: #fcf14d;
+  --primary-03: #fdf47a;
+  --neutral-00: #2f2f2f;
+  --neutral-01: #464646;
+  --neutral-02: #d5d5d5;
+  --neutral-03: #f4f4f4;
+  --neutral-04: #ffffff;
+  --font-families-noto-sans-thai: 'Noto Sans Thai';
+  --font-families-anuphan: 'Anuphan';
+  --font-families-poppins: 'Poppins';
+  --shadow: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object];
+  --inner-shadow: [object Object];
+  --near-shadow: [object Object];
+  --line-heights-0: 60;
+  --line-heights-1: 40;
+  --line-heights-2: 50;
+  --line-heights-3: 30;
+  --line-heights-4: 26;
+  --line-heights-5: 24;
+  --line-heights-6: 24.5;
+  --font-weights-noto-sans-thai-0: Bold;
+  --font-weights-anuphan-1: Regular;
+  --font-weights-noto-sans-thai-2: SemiBold;
+  --font-weights-noto-sans-thai-3: Regular;
+  --font-weights-noto-sans-thai-4: Medium;
+  --font-weights-poppins-5: Regular;
+  --font-size-0: 14;
+  --font-size-1: 16;
+  --font-size-2: 20;
+  --font-size-3: 24;
+  --font-size-4: 28;
+  --font-size-5: 40;
+  --font-size-6: 48;
+  --letter-spacing-0: -1%;
+  --paragraph-spacing-0: 0;
+  --01-display: [object Object];
+  --02-display-subtitle: [object Object];
+  --03-section-title: [object Object];
+  --04-section-subtitle: [object Object];
+  --05-title: [object Object];
+  --06-body: [object Object];
+  --07-button: [object Object];
+  --08-label: [object Object];
+  --09-footer: [object Object];
+  --10-placeholder: [object Object];
+  --07-button-inactive: [object Object];
+  --text-case-none: none;
+  --text-decoration-none: none;
+}

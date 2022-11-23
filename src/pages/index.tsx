@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className="text-2xl text-red-500 w-full text-center">LOREM</h1>
-        <p style={{ color: 'var(--primary-default)' }}>Import from Figma Tokens</p>
+        <p className="text-base-red">Import from Figma Tokens</p>
       </main>
     </div>
   )

@@ -4,6 +4,7 @@ const { makeSdTailwindConfig } = require('sd-tailwindcss-transformer')
 const sdConfig = makeSdTailwindConfig({
   type: 'all',
   buildPath:'./',
+  source: [`./tokens.json`],
   // isVariables: true,
 })
 

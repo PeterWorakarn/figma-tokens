@@ -10,8 +10,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="text-2xl text-red-500 w-full text-center">LOREM</h1>
-        <p className="text-base-red">Import from Figma Tokens</p>
+        <h1 className="text-2xl text-primary-default w-full text-center">LOREM</h1>
+        <p className="text-primary-00 font-notoSansThai">Import from Figma Tokens</p>
       </main>
     </div>
   )
